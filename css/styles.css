@@ -1,0 +1,70 @@
+body {
+  background-color: #1b1b2f;
+  margin: 0;
+  text-align: center;
+}
+
+a {
+  color: #e43f5a;
+  font-size: 90%;
+  text-align: center;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+.top-container {
+  color: #e43f5a;
+  margin-top: 0;
+}
+
+.site-name {
+  margin: 20px auto 20px 20px;
+  text-align: left;
+}
+
+.mtg {
+  text-align: center;
+}
+
+hr {
+  border-style: solid;
+  background-color: #035aa6;
+  border-color: #035aa6;
+  height: 0.1px;
+}
+
+.middle-container {
+
+  font-size: 100%;
+  color: #e43f5a;
+  text-align: center;
+  margin-top: 300px;
+
+  label {}
+
+  .label {
+    font-size: 200%;
+  }
+
+  input {
+    width: 500px;
+    height: 500px;
+  }
+
+  button {
+    height: 500px;
+    width: 500px;
+  }
+
+.sec-mid-container{
+
+
+
+}
+
+.search{
+  height: 200%;
+}
